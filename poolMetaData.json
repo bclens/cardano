@@ -3,4 +3,5 @@
 "description": "Test Staking Pool for BCLens.  Additional description to be added in the future if required.",
 "ticker": "BCLT",
 "homepage": "http://blockchainlens.org"
+"extended": "https://yoururl.com"
 }
