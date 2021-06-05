@@ -1,0 +1,36 @@
+{
+    "how-to-implement": "in meta.json define *extended* to this json https://raw.github/ex-meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/bclens/mainnet/main/WISHLogo64x64px.png",
+        "url_png_logo": "https://raw.githubusercontent.com/bclens/mainnet/main/WISHLogoFull.png",
+        "location": "Singapore",
+        "social": {
+            "twitter_handle": "BlockchainLens",
+            "telegram_handle": "BCLens",
+            "facebook_handle": "WISHPoolByBCLens",
+            "youtube_handle": "Blockchain Lens [WISH]",
+            "discord_handle": "BCLens[WISH]",
+            "github_handle": "BCLens"
+        },
+        "company": {
+            "name": "Blockchain Lens",
+            "addr": "Sunny",
+            "city": "Singapore",
+            "country": "Singapore"
+        },
+        "about": {
+            "me": "IT Professional with more than 25 years experience in systems admin and project management",
+            "server": "DC Hosted, 24/7 power, cooling, physical security, hi-speed network",
+            "company": "Located in secure Singapore with reliable power and high speed networks"
+        }
+    },
+    "my-pool-ids": {
+        "0": "4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852"
+    },
+    "when-satured-then-recommend": {
+        "0": "4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852"
+    },
+    "telegram-admin-handle": {
+        "0": "BCLens"
+    }
+}
