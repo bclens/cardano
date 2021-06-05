@@ -1,6 +1,7 @@
 {
 "name": "BCLens Test Pool",
-"description": "Test Staking Pool for BCLens.  Additional description to be added in the future if required.",
+"description": "Test Staking Pool for BCLens WISH Pool.",
 "ticker": "BCLT",
-"homepage": "http://blockchainlens.org"
+"homepage": "http://blockchainlens.org",
+"extended": "https://raw.githubusercontent.com/bclens/cardano/main/extendedMetaData.json"
 }
