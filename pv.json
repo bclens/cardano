@@ -1,0 +1,7 @@
+{
+"name": "BCLens Preview Pool",
+"description": "Test Preview Pool for WISH Pool",
+"ticker": "WISHV",
+"homepage": "http://blockchainlens.org",
+"extended": "https://raw.githubusercontent.com/bclens/cardano/main/extendedMetaData.json"
+}
